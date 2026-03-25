@@ -12,7 +12,7 @@ export function renderProfile(userData, container) {
 
          <div class="profile-counters">
              <div class="followers">
-                 <h4>👥 Seguidores/h4>
+                 <h4>👥 Seguidores</h4>
                  <span>${userData.followers}</span>
              </div>
              <div class="following">
